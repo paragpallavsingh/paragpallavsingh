@@ -1,6 +1,6 @@
 # <p align='center'>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Parag Pallav Singh welcomes you on his profile!</p>
 
-### <p align='center'>Software Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Software Engineer" width="35px"/> | SEO Analyst <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" alt="SEO Analyst" width="35px"/> | Digital Marketer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Digital Marketer" width="25px"/> | Content Writer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" alt="Content Writer" width="35px"/></p>
+### <p align='center'>Cloud DevOps Engineer | Amazon AWS | Microsoft Azure</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/paragpallavsingh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Parag Pallav Singh LinkedIn" height="30" width="40" /></a>
 <a href="https://www.facebook.com/paragpallavsingh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Parag Pallav Singh Facebook" height="30" width="40" /></a>
@@ -18,20 +18,23 @@
 
 
 ✔ Pronouns: ***He/His*** or ***TeamPlayer***😉 <br>
-✔ I’m currently learning **Python* & **Data Analytics**<br>
+✔ I’m currently learning **Shell Scripting, Docker and Kubernetes**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **SEO Automation using Python**<br>
+✔ I’m looking for DevOps related **Work Opportunities**<br>
 ✔ Ask me about anything, if you are stuck with the problems in my basket😉<br>
 ✔ Fun fact : *I am highly at peace with the world going so fast.*<br><br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
-      <code><img height="50" src="https://github.com/paragpallavsingh/devicon/blob/master/icons/java/java-original.svg"></code>
       <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+      <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"></code>
       <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+      <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
       <code><img height="50" src="https://github.com/paragpallavsingh/devicon/blob/master/icons/azure/azure-original.svg"></code>
+      <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
       <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"></code>
       <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
+      <code><img height="50" src="https://github.com/paragpallavsingh/devicon/blob/master/icons/java/java-original.svg"></code>
 </p>
 
 <p align="center">
