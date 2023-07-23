@@ -8,6 +8,7 @@
 <a href="https://paragpallavsingh.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" alt="Parag Pallav Singh Blog" height="30" width="40" /></a>
 <a href = "mailto: thakurparag6.1@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Parag Pallav Singh E-mail" height="30" width="40" /></a>
 </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paragpallavsingh&theme=algolia" alt="Parag Pallav Singh" /></p>
 <p align="center">
   <em>
     This profile is just to explore the interesting features of Github. To contact me, just tap on the social media icons above
