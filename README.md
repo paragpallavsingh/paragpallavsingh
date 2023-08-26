@@ -44,3 +44,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paragpallavsingh&show_icons=true&locale=en&layout=compact" alt="Parag Pallav Singh Stats" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paragpallavsingh&show_icons=true&locale=en" alt="Jagratkatara" width="410" /></p>
+![](https://hit.yhype.me/github/profile?user_id=40052830)
